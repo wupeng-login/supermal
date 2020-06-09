@@ -1,5 +1,5 @@
 // 配置文件夹路径别名
-module.expores = {
+module.exports = {
      configureWebpack: {
           resolve: {
                alias: {
